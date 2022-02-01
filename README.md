@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @max-bot1
 - 👀 I’m interested in Rocks and code and stuff.
 - 🌱 I’m currently learning to become a web developer at Devmountain!
-- 💞️ Look at my portfolio here: https://bit.ly/3pSctYE
+- 💞️ Look at my portfolio here: https://maxfbotwn.netlify.app
 - 📫 How to reach me email me at maxfbotwin@gmail.com
 
 <!---
