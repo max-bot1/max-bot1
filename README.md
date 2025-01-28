@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @max-bot1
-- 👀 I’m interested in Rocks and code and stuff.
-- 🌱 I’m currently learning to become a web developer at Devmountain!
-- 💞️ Look at my portfolio here: https://maxbotwin.netlify.app
-- 📫 How to reach me email me at maxfbotwin@gmail.com
+- 👋 Hi, I’m @max-bot1, I like rocks and code and stuff
 
 <!---
 max-bot1/max-bot1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
